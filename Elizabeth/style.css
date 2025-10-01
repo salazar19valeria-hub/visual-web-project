@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(166, 166, 236);
+}
+
+p {
+    color: #160e14;
+
+}
+
+div {
+    /* Este es el borde */
+    border: 1px solid; 
+
+    /* Este es el ancho */
+    width: 600px;
+
+    padding: 30px;
+}
+
+body{
+    background-color: rgb(168, 200, 201);
+}

@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(171, 253, 104) ;
+}
+img{
+    border-radius: 15px;
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.contenedor{
+    text-align: center;
+}

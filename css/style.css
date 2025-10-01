@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(10, 10, 10);
+    text-align: center;
+}
+body {
+    background-color: rgb(168, 200, 201);
+}
+p {
+    font-size: 20px;                                                                        
+}
+img{    
+    border-radius: 15px;
+}
+.contenedor {
+    text-align: center;
+    display: flex;
+}
+h2{
+    text-align: center;
+}
+.proyectoValeria{
+    background-color: beige;
+}
+.proyectoValeria:hover{
+    background-color: rgb(163, 103, 219);
+}   
+
+
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contenedor-contenedores{
+    display:flex;
+
+    justify-content: center;
+}

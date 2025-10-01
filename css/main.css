@@ -1,0 +1,20 @@
+
+ .tarjeta{ 
+    border: 30px;
+    background-color: rgb(197, 197, 216);
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 30px;
+    width: 500px;
+
+}
+h3{
+    text-align: center;
+}
+img{
+    border-radius:15px ;
+    text-align: center;
+}
+.contenedor{
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+p{
+    color: blue;
+    border: 1px solid;
+}
+
+.despedida{
+    color: red;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-around
+}

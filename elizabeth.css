@@ -1,0 +1,98 @@
+.tarjeta{ 
+    border: 30px;
+    background-color: rgb(197, 197, 216);
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 30px;
+    width: 500px;
+
+}
+h3{
+    text-align: center;
+}
+img{
+    border-radius:15px ;
+    text-align: center;
+}
+.contenedor{
+    text-align: center;
+}
+.tarjeta2{
+     border: 30px;
+    background-color: rgb(197, 197, 216);
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 30px;
+    width: 500px;
+}
+h3{
+    text-align: center;
+}
+img{
+    border-radius: 15px;
+    text-align: center;
+}
+.contenedor2{
+    text-align: center;
+}
+.tarjeta3{
+     border: 30px;
+    background-color: rgb(197, 197, 216);
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 30px;
+    width: 500px;
+}
+h3{
+    text-align: center;
+}
+img{
+    border-radius: 15px;
+    text-align: center;
+}
+.contenedor3{
+    text-align: center;
+}
+
+.tarjeta4{
+     border: 30px;
+    background-color: rgb(197, 197, 216);
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 30px;
+    width: 500px;
+}
+h3{
+    text-align: center;
+}
+img{
+    border-radius: 15px;
+    text-align: center;
+}
+.contenedor4{
+    text-align: center;
+}
+.tarjeta5{
+     border: 30px;
+    background-color: rgb(197, 197, 216);
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 30px;
+    width: 500px;
+}
+h3{
+    text-align: center;
+}
+img{
+    border-radius: 15px;
+    text-align: center;
+}
+.contenedor5{
+    text-align: center;
+}
+
+.contenedor6{
+    display: flex;
+}
+
+
